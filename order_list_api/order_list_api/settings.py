@@ -95,6 +95,7 @@ DATABASES = {
         'PASSWORD': '*****'
     }
 }
+#chin
 
 
 
